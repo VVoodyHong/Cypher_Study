@@ -1,0 +1,4 @@
+﻿  VigenereCipher.cpp
+C:\Users\직업능력개발훈련 401호_24번\source\repos\Cipher\Cipher\VigenereCipher.cpp(25,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\직업능력개발훈련 401호_24번\source\repos\Cipher\Cipher\VigenereCipher.cpp(26,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Cipher.vcxproj -> C:\Users\직업능력개발훈련 401호_24번\source\repos\Cipher\x64\Debug\Cipher.exe
